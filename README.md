@@ -1,6 +1,5 @@
-# What the AI-Advantaged Generation Won't Teach You
-
-**AIに有利な世代が教えない、AIの使い方と"思考のOS" — AI時代における世代間の責務を再定義する**
+# AIに有利な世代が教えない、AIの使い方と"思考のOS" — AI時代における世代間の責務を再定義する
+**What the AI-Advantaged Generation Won't Teach You**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](docs/)
