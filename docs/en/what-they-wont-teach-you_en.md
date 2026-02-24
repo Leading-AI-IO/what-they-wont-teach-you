@@ -1,4 +1,16 @@
-# Prologue: The Inconvenient Truth of the AI Era
+# What the AI-Advantaged Generation Won't Teach You
+
+**A Manifesto on Intergenerational Responsibility in the AI Era**
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](docs/)
+
+<p align="left">
+  <img src="../../assets/cover_design.png" width="70%">
+</p>
+
+---
+## Prologue: The Inconvenient Truth of the AI Era
 
 ---
 
@@ -80,13 +92,13 @@ This is a proposal for a new intergenerational contract in the AI era.
 
 ---
 
-# Part I: Don't Fear — Let's Arm Ourselves
+## Part I: Don't Fear — Let's Arm Ourselves
 
-## — A Declaration of Liberation and Methodology for the Young
+### — A Declaration of Liberation and Methodology for the Young
 
 ---
 
-### 1-1. Don't Surrender Your Heart to AI
+#### 1-1. Don't Surrender Your Heart to AI
 
 First, let me talk not about technology, but about the heart.
 
@@ -110,7 +122,7 @@ And no one is teaching this. Not in schools, not in companies, not at home. Ther
 
 ---
 
-### 1-2. The Thinking OS — The Golden Ratio of Human-AI Co-Creation: "The 10:80:10 Rule"
+#### 1-2. The Thinking OS — The Golden Ratio of Human-AI Co-Creation: "The 10:80:10 Rule"
 
 From here, I'm going to hand you concrete weapons.
 
@@ -144,7 +156,7 @@ AI generates the most probabilistically plausible response. But "plausible" and 
 
 ---
 
-### 1-3. Critical Thinking — A Technology to Protect Yourself
+#### 1-3. Critical Thinking — A Technology to Protect Yourself
 
 To execute that final 10%, you need a concrete skill. That skill is critical thinking.
 
@@ -168,7 +180,7 @@ Critical thinking is not a skill for efficiency. It is a technology to protect y
 
 ---
 
-### 1-4. Acquire Your Weapons — Context Engineering and Vibe Coding
+#### 1-4. Acquire Your Weapons — Context Engineering and Vibe Coding
 
 With your axis established and your ability to judge developed, it's time to hand you the weapons that maximize AI's power.
 
@@ -198,7 +210,7 @@ Without the first 10% — your will — no weapon has meaning.
 
 ---
 
-### 1-5. The Theory Is Here
+#### 1-5. The Theory Is Here
 
 The details of the methodology discussed in this book are all published as open source.
 
@@ -213,13 +225,13 @@ That's why in Part II, I ask you to actually walk.
 
 ---
 
-# Part II: Let's Demand
+## Part II: Let's Demand
 
-## — A Call to the Young
+### — A Call to the Young
 
 ---
 
-### 2-1. Theory Alone Does Not Become Capability
+#### 2-1. Theory Alone Does Not Become Capability
 
 In Part I, I handed you a Thinking OS. The 10:80:10 Rule, critical thinking, context engineering, vibe coding. All the theory and weapons for co-creating with AI have been disclosed.
 
@@ -237,7 +249,7 @@ Theory can be understood in your head. But capability can only be learned throug
 
 ---
 
-### 2-2. The Theory-Practice Loop
+#### 2-2. The Theory-Practice Loop
 
 The method for deepening capability is actually simple.
 
@@ -257,7 +269,7 @@ Theory is a map you read before practice, and a mirror you look into after pract
 
 ---
 
-### 2-3. No One Will Prepare the Field of Practice for You
+#### 2-3. No One Will Prepare the Field of Practice for You
 
 Here I'll say something harsh.
 
@@ -295,9 +307,9 @@ In Part III, I speak to the side that should "answer" when you raise your voice 
 
 ---
 
-# Part III: Let's Answer
+## Part III: Let's Answer
 
-## — A Warning to the Senior Generation
+### — A Warning to the Senior Generation
 
 ---
 
@@ -309,7 +321,7 @@ And I speak as one of them. This is a message directed at myself as well.
 
 ---
 
-### 3-1. What Are We Doing?
+#### 3-1. What Are We Doing?
 
 Let me ask frankly.
 
@@ -337,7 +349,7 @@ This is the disparity — between those who have and those who have not. An econ
 
 ---
 
-### 3-2. We Too Were Raised This Way
+#### 3-2. We Too Were Raised This Way
 
 Take a moment to remember your own past.
 
@@ -359,7 +371,7 @@ But the result is that the next generation is losing both "the space to gain exp
 
 ---
 
-### 3-3. What AI Cannot Pass On
+#### 3-3. What AI Cannot Pass On
 
 Let me make one thing clear here.
 
@@ -379,7 +391,7 @@ And those who bear the responsibility to design that field of practice and provi
 
 ---
 
-### 3-4. Let's Fulfill Our Responsibility
+#### 3-4. Let's Fulfill Our Responsibility
 
 What specifically should we do?
 
@@ -406,7 +418,7 @@ We must not break this chain.
 
 ---
 
-# Epilogue: A Declaration of Intergenerational Co-Creation
+## Epilogue: A Declaration of Intergenerational Co-Creation
 
 ---
 
@@ -444,7 +456,26 @@ This chain is what made us human.
 
 No matter how intelligent AI becomes, this chain is something only humans can sustain.
 
+
+
 So —
 
 Young ones, let's demand.
 And we will answer.
+
+---
+
+## 👤 Author
+
+**Satoshi Yamauchi**<br>
+AI Strategist & Business Designer | Founder of [Leading AI](https://www.leading-ai.io/)
+
+A BTC (Business × Technology × Creative) professional who bridges three domains.<br>
+Creator of "Depth & Velocity," a methodology for new business development in the generative AI era.
+
+---
+
+## 📝 License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).<br>
+© 2026 Satoshi Yamauchi / Leading AI — Licensed under CC BY 4.0
