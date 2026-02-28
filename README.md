@@ -8,6 +8,8 @@
   <img src="./assets/cover_design.png" width="70%">
 </p>
 
+*Read this in other languages: [English](README_en.md)*
+
 ---
 
 ## 📖 概要
