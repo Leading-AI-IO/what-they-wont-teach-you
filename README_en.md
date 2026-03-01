@@ -131,10 +131,12 @@ This book is interconnected with the following open-source projects.
 ## 👤 Author
 
 **Satoshi Yamauchi**<br>
-AI Strategist & Business Designer | Founder of [Leading AI](https://www.leading-ai.io/)
+* **Business Designer & AI Strategist at SunAsterisk.inc**
+* **Founder / AI Strategist at Leading.AI**
+* This project is part of the research by Leading.AI.
 
-A BTC (Business × Technology × Creative) professional who bridges three domains.<br>
-Creator of "Depth & Velocity," a methodology for new business development in the generative AI era.
+* [📒 Read my insights on Note](https://note.com/satoshi_yamauchi)
+* [🌐 Visit Leading.AI Official Website](https://www.leading-ai.io/)
 
 ---
 
