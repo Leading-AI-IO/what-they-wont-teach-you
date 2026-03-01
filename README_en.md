@@ -124,6 +124,7 @@ This book is interconnected with the following open-source projects.
 | **Depth & Velocity** | A methodology for new business development in the generative AI era. The origin of the 10:80:10 framework | [GitHub](https://github.com/Leading-AI-IO/depth-and-velocity) |
 | **The Silence of Intelligence** | A systematic analysis of Anthropic CEO Dario Amodei's philosophy. Reference for structural understanding of the AI era | [GitHub](https://github.com/Leading-AI-IO/the-silence-of-intelligence) |
 | **The Palantir Impact** | A deep dive into Palantir Foundry's Ontology strategy. Reference for enterprise AI implementation | [GitHub](https://github.com/Leading-AI-IO/palantir-ontology-strategy) |
+| **The Edge of Intelligence** | Why Open-Weight AI Will Move from Cloud to Your Device, and What It Means for Business and Society | [GitHub](https://github.com/Leading-AI-IO/edge-ai-intelligence) |
 
 ---
 
