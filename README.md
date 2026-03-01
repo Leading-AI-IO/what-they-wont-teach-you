@@ -133,10 +133,12 @@ AIの出力品質は、使う人間の経験・知識・文脈の深さに依存
 ## 👤 著者
 
 **Satoshi Yamauchi（山内 怜史）**<br>
-AI Strategist & Business Designer | Founder of [Leading AI](https://www.leading-ai.io/)
+* **Business Designer & AI Strategist at SunAsterisk.inc**
+* **Founder / AI Strategist at Leading.AI**
+* This project is part of the research by Leading.AI.
 
-ビジネス × テクノロジー × クリエイティブの3領域を越境するBTC人材。<br>
-生成AI時代の新規事業開発の方法論「Depth & Velocity」を提唱。
+* [📒 Read my insights on Note](https://note.com/satoshi_yamauchi)
+* [🌐 Visit Leading.AI Official Website](https://www.leading-ai.io/)
 
 ---
 
