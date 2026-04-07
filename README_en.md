@@ -116,7 +116,8 @@ This book is interconnected with the following open-source projects.
 | **The Redesign of Design Strategy** | Redefining design strategy, including a structural analysis of IDEO's decline | [GitHub](https://github.com/Leading-AI-IO/design-strategy-in-the-ai-era) |
 | **The Orchestrator** | The first-ever definition of the rarest role in the AI era | [GitHub](https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era) |
 | **Advertising, Redesigned** |  Why AI will transform advertising from intrusion to a gentle, welcome proposal | [GitHub](https://github.com/Leading-AI-IO/advertising-redesigned) |
-| **The AI Organization**             | The root cause of AI failure is not technology. Organizational theory for the AI era                            | [GitHub](https://github.com/Leading-AI-IO/the-ai-organization)  |
+| **The AI Organization**  | The root cause of AI failure is not technology. Organizational theory for the AI era | [GitHub](https://github.com/Leading-AI-IO/the-ai-organization) |
+| **The Structural Shift from SaaS** | SaaS Is Dead: The Structural Shift from SaaS to Service-as-a-Software | [GitHub](https://github.com/Leading-AI-IO/saas-is-dead-the-next-ai-business-model) |
 
 ---
 
