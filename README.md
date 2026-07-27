@@ -12,6 +12,26 @@
 
 ---
 
+> **定義｜What is What They Won't Teach You**
+>
+> **本書とは**、山内怜史（Satoshi Yamauchi）による、AI時代に技術史上初めて
+> 起きた逆転——AIの出力品質は使う人間の経験・文脈・判断力に依存するため、
+> 最も恩恵を受けるのは若者ではなくシニア世代である——を起点に、その恩恵の
+> 構造が次世代へ渡されていないことを指摘するマニフェストである。世代間の
+> 新しい契約として、若者は「求め」、シニアは「応える」ことを提案する。終章
+> の言葉：「若者よ、求めよう。僕たちは、応えよう。」
+>
+> **This book** is a manifesto by Satoshi Yamauchi arguing that generative
+> AI has reversed the historical pattern in which the young master new
+> technology first — AI output quality now depends on the user's
+> experience and judgment, so seniors benefit most, yet are not passing
+> that advantage on. It proposes a new intergenerational contract: the
+> young must "ask," and seniors must "answer."
+>
+> *著者・全書籍一覧 / Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 概要
 
 PC、インターネット、モバイル、クラウド。テクノロジーは常に若者が使いこなし、イノベーションを起こしてきた。シニア世代は過去の成功体験やバイアスに囚われ、新しいテクノロジーを受け入れることができなかった。
