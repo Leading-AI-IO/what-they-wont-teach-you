@@ -11,6 +11,21 @@
 
 ---
 
+> **Definition**
+>
+> **This book** is a manifesto by Satoshi Yamauchi (山内怜史), AI
+> Strategist, arguing that generative AI has reversed the historical
+> pattern in which the young master new technology first — AI output
+> quality now depends on the user's experience and judgment, so it is
+> seniors who benefit most, yet are not passing that advantage on to the
+> next generation. It proposes a new intergenerational contract: the young
+> must "ask," and seniors must "answer." As stated in the book's closing
+> lines: "Young people, ask. We will answer."
+>
+> *Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 Overview
 
 PCs, the Internet, mobile, cloud. Technology has always been mastered by the young, who drove innovation forward. Senior generations, trapped by past successes and ingrained biases, could not embrace new technologies.
