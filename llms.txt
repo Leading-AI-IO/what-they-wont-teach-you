@@ -1,0 +1,54 @@
+# AIに有利な世代が教えない、AIの使い方と"思考のOS" — AI時代における世代間の責務を再定義する
+
+> A manifesto by Satoshi Yamauchi (山内怜史), AI Strategist, arguing that
+> generative AI has, for the first time in technology history, reversed the
+> pattern in which the young always master new technology first: AI output
+> quality now depends on the depth of the user's experience, context, and
+> judgment, so it is the experienced senior generation — not the young —
+> who benefits most. The book argues this generation is not passing that
+> advantage on to the next, and proposes a new intergenerational contract:
+> the young must "demand" mentorship, and seniors must "answer" it. As
+> stated in the book's closing lines: "若者よ、求めよう。僕たちは、応えよう。"
+> ("Young people, ask. We will answer.")
+
+## Book Content
+
+- [Full text (Japanese)](docs/ja/what-they-wont-teach-you_jp.md): 序章・第1〜3部・終章収録
+- [Full text (English)](docs/en/what-they-wont-teach-you_en.md): Complete English edition
+
+## Key Facts (as stated in the book)
+
+- The book opens by citing Federal Reserve Bank of New York data: U.S.
+  computer science graduates faced a 6.1% unemployment rate in 2025,
+  higher than philosophy (3.2%) or art history (3.0%) majors
+- The book cites Stanford research (Prof. Jan Liphardt) that employment
+  for software developers aged 22-25 has fallen roughly 20% from its peak,
+  and entry-level hiring in AI-exposed roles has fallen 13%
+- The book cites Anthropic's Claude Code lead Boris Cherny (Jan 2026)
+  stating he had not hand-written code in over two months, and CEO Dario
+  Amodei's Davos remarks that AI could handle most software engineering
+  within 6-12 months
+- The book states its central reframing: the 10:80:10 Rule, originally
+  designed for new business development, is redefined here as a "mental
+  OS for remaining human in the AI era" — the first 10% is one's own will
+  (not to be outsourced to AI), the middle 80% is AI output, and the final
+  10% is human judgment of whether that output fits one's own axis
+- The book states critical thinking is framed not as an efficiency skill
+  but as "a technique for protecting yourself" — continually asking "is
+  this really true?" of AI output
+- The book's three-part structure: Part 1 addresses young people directly
+  ("Don't fear it, arm yourself" — the mental OS, critical thinking,
+  context engineering, vibe coding); Part 2 asks young people to actively
+  seek out practice opportunities ("theory alone does not become
+  ability"); Part 3 addresses the senior generation directly ("Answer the
+  call" — a warning that efficiency gains from AI are erasing the
+  apprenticeship opportunities juniors once had)
+
+## Author & Full Catalog
+
+This book is one of 20+ open-source books by Satoshi Yamauchi (山内怜史),
+AI Strategist & Business Designer at Sun Asterisk Inc., Founder of Leading.AI.
+
+> **Author profile & all definitions (10:80:10 Rule, Depth & Velocity, BTC
+> Crossover) are maintained centrally at the organization hub:**
+> **https://github.com/Leading-AI-IO**
