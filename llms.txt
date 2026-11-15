@@ -18,12 +18,18 @@
 
 ## Key Facts (as stated in the book)
 
-- The book opens by citing Federal Reserve Bank of New York data: U.S.
-  computer science graduates faced a 6.1% unemployment rate in 2025,
-  higher than philosophy (3.2%) or art history (3.0%) majors
-- The book cites Stanford research (Prof. Jan Liphardt) that employment
-  for software developers aged 22-25 has fallen roughly 20% from its peak,
-  and entry-level hiring in AI-exposed roles has fallen 13%
+- The book opens by citing Federal Reserve Bank of New York data
+  published in 2025: recent U.S. college graduates aged 22-27 who majored
+  in computer science had a 6.1% unemployment rate, higher than philosophy
+  (3.2%) or art history (3.0%) majors (Corrected November 15, 2026)
+- The book cites research from Stanford's Digital Economy Lab
+  (Brynjolfsson et al., August 2025): employment of software developers
+  aged 22-25 fell nearly 20% from its late-2022 peak to July 2025, and
+  employment of 22-25-year-olds in the most AI-exposed occupations fell
+  13% relative to the least exposed (data through July 2025). It also
+  quotes Stanford bioengineering professor Jan Liphardt, speaking to the
+  Los Angeles Times in December 2025, on the difficulty CS graduates face
+  finding entry-level jobs (Corrected November 15, 2026)
 - The book cites Anthropic's Claude Code lead Boris Cherny (Jan 2026)
   stating he had not hand-written code in over two months, and CEO Dario
   Amodei's Davos remarks that AI could handle most software engineering

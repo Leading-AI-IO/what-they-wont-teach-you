@@ -50,7 +50,7 @@ This book consists of a prologue, 3 parts, and an epilogue.
 
 | Theme | Content |
 |-------|---------|
-| White-collar employment collapse | CS graduate unemployment at 6.1%, entry-level hiring down 13%. Based on Stanford research and Federal Reserve Bank of NY data |
+| White-collar employment collapse | (Corrected November 15, 2026)<br>Unemployment among recent graduates aged 22-27 with Computer Science majors was 6.1% (Federal Reserve Bank of New York, published 2025). Employment of 22-25-year-olds in the occupations most exposed to AI fell 13% relative to the least exposed (data through July 2025; Stanford Digital Economy Lab) |
 | The illusion of blue-collar demand | "Escape to blue-collar" is not a solution. With the evolution of Physical AI, it is merely a matter of time |
 | Conclusion | You cannot escape by choosing a different profession. You must change your relationship with AI |
 
