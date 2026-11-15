@@ -16,11 +16,13 @@
 
 In 2025, something unprecedented happened in America.
 
-The unemployment rate for recent graduates with Computer Science degrees reached 6.1%. It surpassed Philosophy majors at 3.2% and Art History majors at 3.0%. This figure, from the Federal Reserve Bank of New York, defies most people's intuition. The major once believed to be "the safest bet" had become one of the hardest paths to employment.
+(Corrected November 15, 2026)<br>
+According to data published in 2025 by the Federal Reserve Bank of New York, the unemployment rate for recent college graduates aged 22 to 27 who majored in Computer Science was 6.1%. It surpassed Philosophy majors at 3.2% and Art History majors at 3.0%. This figure defies most people's intuition. The major once believed to be "the safest bet" had become one of the hardest paths to employment.
 
 This is not a temporary economic fluctuation. It is a structural tectonic shift.
 
-Research from Stanford University has outlined the contours of this change. Employment of software developers aged 22 to 25 has declined roughly 20% from its peak. Entry-level hiring in occupations exposed to AI competition has dropped 13%. Three years ago, every graduate was finding good work. Stanford Associate Professor Jan Liphardt has testified that "CS graduates are struggling to find entry-level positions."
+(Corrected November 15, 2026)<br>
+Research from Stanford University's Digital Economy Lab (Erik Brynjolfsson and colleagues, August 2025) has outlined the contours of this change. Employment of software developers aged 22 to 25 fell by nearly 20% from its late-2022 peak to July 2025. Employment of workers aged 22 to 25 in the occupations most exposed to AI declined by 13% relative to those in the least exposed occupations (using data through July 2025; the paper's November 2025 revision reports 16% with data through September 2025). Jan Liphardt, an associate professor of bioengineering at Stanford, told the Los Angeles Times in December 2025 that "CS graduates are struggling to find entry-level positions." Three years ago, he said, all of the undergraduates he mentored had found good jobs. That has changed.
 
 Why?
 
@@ -28,7 +30,8 @@ The answer is simple. AI started writing code.
 
 In January 2026, Boris Cherny, head of Claude Code at Anthropic, revealed that he hadn't hand-written code for over two months. 100% of his code is AI-generated. That same month, Anthropic CEO Dario Amodei predicted at Davos that AI would handle the majority of software engineering within 6 to 12 months. Cherny himself warned that 2026 would be a "painful" year for software engineers.
 
-The LA Times expressed this change in even more brutal terms. Work that once required 10 junior coders can now be accomplished by 2 senior engineers and AI at the same productivity level. 8 out of 10 are no longer needed.
+(Corrected November 15, 2026)<br>
+The LA Times reported this change as a view from the hiring front lines. According to Nenad Medvidović, a professor at the University of Southern California, hiring managers increasingly say that work that once required 10 engineers can now be done with the same productivity by two skilled engineers and one AI agent. On that view, 8 out of 10 are no longer needed.
 
 ---
 
