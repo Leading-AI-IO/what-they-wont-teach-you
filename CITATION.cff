@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you cite this book, please cite it as below."
+title: "What the AI-Advantaged Generation Won't Teach You: A Manifesto on Intergenerational Responsibility in the AI Era"
+authors:
+  - family-names: Yamauchi
+    given-names: Satoshi
+    affiliation: "Leading.AI LLC"
+version: "1.1"
+date-released: "2026-11-15"
+license: CC-BY-4.0
+repository-code: "https://github.com/Leading-AI-IO/what-they-wont-teach-you"
+keywords:
+  - generative AI
+  - intergenerational responsibility
+  - critical thinking
+  - context engineering
+  - 10:80:10 Rule
+preferred-citation:
+  type: book
+  title: "What the AI-Advantaged Generation Won't Teach You: A Manifesto on Intergenerational Responsibility in the AI Era"
+  authors:
+    - family-names: Yamauchi
+      given-names: Satoshi
+  year: 2026
+  date-published: "2026-02-25"
+  url: "https://github.com/Leading-AI-IO/what-they-wont-teach-you"
